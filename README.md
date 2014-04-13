@@ -1,0 +1,1 @@
+Simple trials to solve Google Code Jam 2014 Problems.
